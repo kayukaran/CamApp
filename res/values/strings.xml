@@ -1,0 +1,22 @@
+<resources>
+    
+    <string name="camera_dis">Camera</string>
+
+    <!-- App Name -->
+    <string name="app_name">CamApp</string>
+     <string name="menu_settings">Cam Main</string>
+    <string name="title_activity_main">Cam Main</string>  
+    
+    <!-- Copy Rights -->
+    <string name="copy_rights">© Copyright 2013|Kayukaran</string>    
+    
+    <!-- Toast message -->
+    <string name="camera_message">Camera  Open</string>
+    <string name="result_ok">Photo Saved</string>
+    <string name="result_canceled">Click on Cancel Button</string>
+    <string  name="error_camera">Camera Error</string>
+    
+    <!-- Menu Title -->
+    <string name="main_menu1">Cam Main</string>
+
+</resources>
